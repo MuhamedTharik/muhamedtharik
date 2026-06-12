@@ -1,8 +1,8 @@
 # Hi, I'm Muhamed Tharik 👋
 
-🎓 Final-year B.Tech student in **Cyber Security & IoT** at SRIHER, Chennai
+🎓 Graduate B.Tech student in **Cyber Security & IoT** at SRIHER, Chennai
 🛡️ Aspiring **SOC Analyst** | passionate about threat detection & incident response
-📱 **Mobile Developer** — building production apps with Kotlin & Java
+📱 **Software Developer** — building production apps with Kotlin & Java
 ☁️ Exploring cloud security on **AWS**
 
 ---
@@ -47,7 +47,7 @@
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhamed-tharik-340a81254)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://muhamedtharik.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://muhamedtharik-software.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohamedkktharik@gmail.com)
 
 > 🔍 Open to **SOC Analyst** and **Software Developer** opportunities — Chennai or Remote
